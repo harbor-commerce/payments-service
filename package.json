@@ -1,0 +1,9 @@
+{
+  "name": "payments-service",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js",
+    "test": "node --test"
+  }
+}
